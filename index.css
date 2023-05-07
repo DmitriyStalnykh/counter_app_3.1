@@ -1,0 +1,49 @@
+.container {
+    margin: 0 auto;
+    width: 501px;
+}
+
+button {
+    font-family: inherit;
+}
+
+.counter {
+    margin-top: 126px;
+    margin-bottom: 36px;
+    text-align: center;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.btn-pool {
+    margin-bottom: 36px;
+    padding: 0px 164px;
+    line-height: 100px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    background: #4191FF;
+    color: #FFFFFF;
+}
+
+.btn-reset {
+    padding: 0px 172px;
+    line-height: 100px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    background: #D45366;
+    color: #FFFFFF;
+}
